@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1&height=300&section=header&text=ume's%20Github&textShadow=2px%202px%203px%20rgba(0,0,0,0.7)&fontColor=DB84A7)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1&height=300&section=header&text=Ume's%20Github&textShadow=2px%202px%203px%20rgba(0,0,0,0.7)&fontColor=DB84A7)
 
 ---
 <!--
@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 
 <div align="center">
- 🔭 Projects
+ <h3>🔭 Projects</h3>
 </div>
 
 
 ***
 <div align="center">
-  🌱 Tech Stacks
+  <h3>🌱 Tech Stacks</h3>
 </div>
 <div align="center">
   <div>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ***
 <div align="center">
-  📊 Activity
+  <h3>📊 Activity</h3>
 </div>
 <div align="center">
   KMU 23 Artificial Intelligence 정유미
