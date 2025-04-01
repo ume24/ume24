@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
 <h3>🔭 Projects</h3>
 
 <table border="1" style="width:100%; text-align: center; border-collapse: collapse;">
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+</div>
 
 
 
