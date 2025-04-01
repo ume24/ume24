@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 <div align="center">
  <h3>🔭 Projects</h3>
+ <ul>
+  <li>StudyLog ~</li>
+ </ul>
 </div>
 
 
