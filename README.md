@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  ## 🔭 Projects
+ 🔭 Projects
 </div>
 
 
-
+***
 <div align="center">
-  ## 🌱 Tech Stacks
+  🌱 Tech Stacks
 </div>
 <div align="center">
   <div>
@@ -50,9 +50,9 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-
+***
 <div align="center">
-  ## 📊 Activity
+  📊 Activity
 </div>
 <div align="center">
   KMU 23 Artificial Intelligence 정유미
