@@ -1,7 +1,7 @@
 
-<div>
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=ume's%20Github)
-</div>
+
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1&height=300&section=header&text=ume's%20Github)
+
 
 <!--
 **ume24/ume24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
