@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1&height=300&section=header&text=ume's%20Github&textShadow=2px%202px%203px%20rgba(0,0,0,0.7)&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1&height=300&section=header&text=ume's%20Github&textShadow=2px%202px%203px%20rgba(0,0,0,0.7)&fontColor=FFC0CB)
 
 ---
 <!--
