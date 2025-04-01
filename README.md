@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1&height=300&section=header&text=ume's%20Github&textShadow=2px%202px%203px%20rgba(0,0,0,0.7)&fontColor=DC6089)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1&height=300&section=header&text=ume's%20Github&textShadow=2px%202px%203px%20rgba(0,0,0,0.7)&fontColor=DB84A7)
 
 ---
 <!--
@@ -17,13 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 Projects
 
 
-## 🔭 Projects
+<div align="center">
+  ## 🔭 Projects
+</div>
 
 
-## 🌱 Tech Stacks
+
+<div align="center">
+  ## 🌱 Tech Stacks
+</div>
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -46,7 +50,10 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-## 📊 Activity
+
+<div align="center">
+  ## 📊 Activity
+</div>
 <div align="center">
   KMU 23 Artificial Intelligence 정유미
 </div>
