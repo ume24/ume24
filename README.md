@@ -19,12 +19,30 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
- <h3>🔭 Projects</h3>
- <ul>
-  <li>StudyLog ~</li>
- </ul>
-</div>
+<h3>🔭 Projects</h3>
+
+<table border="1" style="width:100%; text-align: center; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>StudyLog</td>
+      <td>abstracting files</td>
+      <td>2025 03.01~ </td>
+    </tr>
+    <tr>
+      <td>NLP</td>
+      <td>chat bot</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ***
