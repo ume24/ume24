@@ -31,13 +31,8 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-      <td>StudyLog</td>
-      <td>abstracting files</td>
-      <td>2025 03.01~ </td>
-    </tr>
-    <tr>
       <td>NLP</td>
-      <td>chat bot</td>
+      <td>c</td>
       <td></td>
     </tr>
   </tbody>
